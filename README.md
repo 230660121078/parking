@@ -66,17 +66,5 @@ parkir/
 Project ini menggunakan PHP dan MySQL sehingga tidak dapat dijalankan langsung
 menggunakan GitHub Pages. Repository GitHub digunakan sebagai media penyimpanan
 source code.
-
----
-
-## 👨‍🎓 Informasi Mahasiswa
-Nama : (Isi Nama Anda)  
-NIM : (Isi NIM Anda)  
-Prodi : Teknik Informatika  
-Semester : 5  
-Mata Kuliah : Pemrograman Berbasis Web
-
----
-
 ## 📝 Lisensi
 Project ini dibuat untuk keperluan akademik.
